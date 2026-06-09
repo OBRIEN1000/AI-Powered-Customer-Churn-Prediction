@@ -79,3 +79,6 @@ ChurnShield is designed for instant containerized or server-based cloud deployme
    - **Build Command**: `pip install -r requirements.txt && python main.py train`
    - **Start Command**: `uvicorn api.app:app --host 0.0.0.0 --port $PORT` (this is automatically picked up from the `Procfile`).
 5. Render will automatically build the dataset, train the best model, save the artifacts, and start the FastAPI service with a public SSL URL!
+
+
+check it on render : https://ai-powered-customer-churn-prediction.onrender.com/
