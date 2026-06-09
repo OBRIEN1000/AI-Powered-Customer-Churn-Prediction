@@ -43,7 +43,7 @@ ChurnShield is a production-grade, end-to-end machine learning system designed t
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Setup Environment
 Clone the repository and install the dependencies:
